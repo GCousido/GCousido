@@ -11,7 +11,7 @@
 
 ```yaml
 name: Guillermo Cousido
-age: 21
+age: 22
 location: Galicia, España
 studies:
   - Bachelor’s Degree in Computer Engineering
