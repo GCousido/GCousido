@@ -1,12 +1,12 @@
 <!--
     Hi there 👋, I'm Guillermo Cousido. 
-    I'm happy you are here exploring my README code.
+    Have fun exploring my README code.
 -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2E8B57&height=120&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=30&duration=3000&pause=800&color=2E8B57&width=440&lines=Hello%2C+it's+Guillermo+Cousido;Master's+Student+in+Computer+Engineering" alt="Master's Student"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=30&duration=3000&pause=800&color=2E8B57&width=440&lines=Hello%2C+it's+Guillermo+Cousido;Master's+Student" alt="Master's Student"/>
 </a>
 
 ```yaml
@@ -20,8 +20,9 @@ email: guillermo.cousido@gmail.com
 linkedin: linkedin.com/in/guillermo-cousido
 interests:
   - Backend Development
-  - Data Science
+  - Computer Vision
   - IA Engineering
+  - Data Science
 ```
 
 ### Main skills
